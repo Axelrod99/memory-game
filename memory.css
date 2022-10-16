@@ -1,0 +1,39 @@
+h2{
+    color: skyblue;
+}
+
+.grid{
+    width: 400px;
+    height: 300px;
+    border: black solid 1px;
+    display: flexbox;
+    margin: 0 auto;
+}
+
+.grid img{
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#mytable{
+    margin: 0 auto;
+}
+
+#batn{
+    margin: 0 auto;
+    padding: 15px;
+}
+
+button{
+    background-color: skyblue;
+    padding: 5px;
+    width: 70px;
+    color: #fff;
+}
